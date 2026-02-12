@@ -1,0 +1,19 @@
+{
+  "name": "C6SuperMiniRgbLed",
+  "version": "0.0.1",
+  "description": "A simple library to control RGB LEDs on ESP32 C6 Super Mini using Adafruit_NeoPixel.",
+  "author": "TrailCurrent Open Source",
+  "license": "MIT",
+  "platforms": ["espressif32"],
+  "dependencies": [
+    {
+      "name": "Adafruit NeoPixel",
+      "url": "https://github.com/adafruit/Adafruit_NeoPixel.git"
+    }
+  ],
+  "keywords": ["RGB LED", "NeoPixel", "LED Strip", "ESP32", "C6 Super Mini"],
+  "repository": {
+    "type": "git",
+    "url": "https://codeberg.org/trailcurrent/C6SuperMiniRgbLedLibrary.git"
+  }
+}

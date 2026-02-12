@@ -1,0 +1,29 @@
+# Build artifacts
+.pio/
+.platformio/
+build/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Development files (not for public repo)
+CLAUDE.md
+.claude/
+
+# Arduino build artifacts
+*.o
+*.a
+*.elf
+*.bin
+
+# PlatformIO specific
+.clang_complete
+.gcc-flags.json
