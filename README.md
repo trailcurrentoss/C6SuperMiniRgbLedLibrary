@@ -17,7 +17,7 @@ A simple Arduino library for controlling RGB LEDs on ESP32 C6 Super Mini devices
 Add to `platformio.ini`:
 ```ini
 lib_deps =
-    https://codeberg.org/trailcurrentopensource/C6SuperMiniRgbLedLibrary.git@0.0.1
+    https://github.com/trailcurrentoss/C6SuperMiniRgbLedLibrary.git@0.0.1
 ```
 
 ### Arduino IDE

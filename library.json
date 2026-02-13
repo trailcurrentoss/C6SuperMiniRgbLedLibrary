@@ -14,6 +14,6 @@
   "keywords": ["RGB LED", "NeoPixel", "LED Strip", "ESP32", "C6 Super Mini"],
   "repository": {
     "type": "git",
-    "url": "https://codeberg.org/trailcurrentopensource/C6SuperMiniRgbLedLibrary.git"
+    "url": "https://github.com/trailcurrentoss/C6SuperMiniRgbLedLibrary.git"
   }
 }
