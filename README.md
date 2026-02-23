@@ -1,6 +1,6 @@
 # C6SuperMiniRgbLedLibrary
 
-A simple Arduino library for controlling RGB LEDs on ESP32 C6 Super Mini devices using Adafruit NeoPixel.
+A simple Arduino library for controlling RGB LEDs on ESP32 C6 Super Mini devices using Adafruit NeoPixel. Part of the [TrailCurrent](https://trailcurrent.com) open-source vehicle platform.
 
 ## Features
 
